@@ -12,6 +12,6 @@
  * ✒️ Estilos de Texto: Aplica Negrita, Itálica, Subrayado o Tachado con un solo clic.
  * 📱 Interfaz Responsive: Totalmente optimizada para su uso en computadoras y dispositivos móviles.
  * 📋 Copiado Rápido: Haz clic en el código generado y se copiará automáticamente al portapapeles.
-🚀 Página: https://minehostil.github.io/Generador-de-Colores-RGB/
+ * 🚀 Página: https://minehostil.github.io/Generador-de-Colores-RGB/
 
 © 2026 Desarrollado por Minehostil.
